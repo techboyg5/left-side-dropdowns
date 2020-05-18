@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<overlay id="overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <menupopup id="BMB_bookmarksPopup" position="after_end"/>
+    <menupopup id="HMB_historyPopup" position="after_end"/>
+</overlay>
