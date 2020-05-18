@@ -1,5 +1,5 @@
 # left-side-dropdowns
-A Pale Moon extension that moves the bookmarks and history dropdowns to the left.
+A Pale Moon extension that shows the bookmarks and history dropdowns to the left.
 
 You can see the source code [here](https://github.com/techboyg5/left-side-dropdowns/tree/master/1.0).
 
